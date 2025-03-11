@@ -1,2 +1,2 @@
 # OOP-Class-Studies
-Repo for univ OOP class course
+Repositories for Univ Object Oriented Programming class course
