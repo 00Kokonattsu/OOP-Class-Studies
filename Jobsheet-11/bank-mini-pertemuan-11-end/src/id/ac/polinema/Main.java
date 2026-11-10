@@ -31,5 +31,8 @@ public class Main {
         bank.processMonthEnd();
 
         bank.printHistory("A003");
+
+        // --- print totalAssets ---
+        System.out.println("Total Assets: " + bank.totalAssets());
     }
 }
